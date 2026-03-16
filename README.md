@@ -1,10 +1,4 @@
-<p align="center">
-<a href="https://flutter.dev">
-<img src="https://www.geekbase.in/assets/images/flutter.gif" width="600"/>
-</a>
-</p>
-
-<h1 align="center">Hi 👋, I'm Thien Thach</h1>
+<h1 align="center">Hi! I'm Thien Thach</h1>
 <h3 align="center">Fresher Flutter Developer</h3>
 
 <p align="center">
