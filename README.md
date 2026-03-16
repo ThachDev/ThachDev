@@ -1,4 +1,4 @@
-[![MasterHead](https://www.geekbase.in/assets/images/flutter.gif)](https://flutter.dev)
+[[![MasterHead](https://www.geekbase.in/assets/images/flutter.gif)](https://flutter.dev)
 
 <h1 align="center">Hi 👋, I'm Thien Thach</h1>
 <h3 align="center">Fresher Flutter Developer</h3>
@@ -64,3 +64,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhdangthienthach&layout=compact" style="width:50%;" />
 </p>
+](https://github-readme-stats.vercel.app/api?username=huynhdangthienthach&show_icons=true&cache_seconds=1800)
