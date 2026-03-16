@@ -62,6 +62,34 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/huynhdangthienthach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/huynhdangthienthach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME_2&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/huynhdangthienthach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME_3&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/huynhdangthienthach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME_4&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -69,14 +97,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=huynhdangthienthach&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhdangthienthach&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhdangthienthach&layout=compact&theme=tokyonight" width="40%"/>
-</p>
