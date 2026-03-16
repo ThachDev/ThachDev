@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.geekbase.in/flutter.html))](https://rishavchanda.io)
+[![MasterHead](https://www.geekbase.in/assets/images/flutter.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ThienThach</h1>
 <h3 align="center">I am always eager to learn and apply new technologies to optimize performance and enhance user experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
