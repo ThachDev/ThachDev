@@ -67,19 +67,15 @@
 <p align="center">
 
 <a href="https://github.com/ThachDev/Chat-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Chat-App&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Chat-App&theme=tokyonight" width="32%"/>
 </a>
 
 <a href="https://github.com/ThachDev/Mediquick_App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Mediquick_App&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Mediquick_App&theme=tokyonight" width="32%"/>
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://github.com/ThachDev/Huynh_Genealogy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Huynh_Genealogy&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Huynh_Genealogy&theme=tokyonight" width="32%"/>
 </a>
 
 </p>
@@ -91,15 +87,15 @@
 <p align="center">
 
 <a href="https://github.com/ThachDev/Jax_Dash2D">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Jax_Dash2D&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Jax_Dash2D&theme=tokyonight" width="32%"/>
 </a>
 
 <a href="https://github.com/ThachDev/Smart-HAP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Smart-HAP&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Smart-HAP&theme=tokyonight" width="32%"/>
 </a>
 
 <a href="https://github.com/ThachDev/AnalyzeSale_With_Python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=AnalyzeSale_With_Python&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=AnalyzeSale_With_Python&theme=tokyonight" width="32%"/>
 </a>
 
 </p>
