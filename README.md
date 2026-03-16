@@ -1,7 +1,7 @@
 [![MasterHead](https://www.geekbase.in/assets/images/flutter.gif)](https://rishavchanda.io)
 <h1 align="center">Hi!, I'm ThienThach</h1>
 <h3 align="center">I am always eager to learn and apply new technologies to optimize performance and enhance user experience.</h3>
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhdangthienthach&label=Profile%20views&color=0e75b6&style=flat" alt="huynhdangthienthach" /> </p>
 
 - 🔭 I’m currently working on [Final Year Project](Ecommerce App Flutter)
