@@ -21,22 +21,22 @@
 
 ---
 
-### 📫 Contact
-
-- Email: **thachhuynh.dev@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/thachdev/
-
----
-
 ### 🤝 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thachdev/" target="blank">
+
+<a href="mailto:thachhuynh.dev@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/thachdev/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/thachdev3D" target="blank">
+
+<a href="https://www.facebook.com/thachdev3D" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
+
 </p>
 
 ---
