@@ -62,28 +62,44 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Flutter Projects
 
 <p align="center">
 
-<a href="https://github.com/huynhdangthienthach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME&theme=tokyonight"/>
+<a href="https://github.com/ThachDev/Chat-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Chat-App&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/huynhdangthienthach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME_2&theme=tokyonight"/>
+<a href="https://github.com/ThachDev/Mediquick_App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Mediquick_App&theme=tokyonight"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/huynhdangthienthach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME_3&theme=tokyonight"/>
+<a href="https://github.com/ThachDev/Huynh_Genealogy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Huynh_Genealogy&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/huynhdangthienthach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhdangthienthach&repo=REPO_NAME_4&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧪 Other Projects
+
+<p align="center">
+
+<a href="https://github.com/ThachDev/Jax_Dash2D">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Jax_Dash2D&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/ThachDev/AnalyzeSale_With_Python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=AnalyzeSale_With_Python&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/ThachDev/Smart-HAP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Smart-HAP&theme=tokyonight"/>
 </a>
 
 </p>
