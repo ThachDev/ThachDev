@@ -94,12 +94,12 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Jax_Dash2D&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/ThachDev/AnalyzeSale_With_Python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=AnalyzeSale_With_Python&theme=tokyonight"/>
-</a>
-
 <a href="https://github.com/ThachDev/Smart-HAP">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=Smart-HAP&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/ThachDev/AnalyzeSale_With_Python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachDev&repo=AnalyzeSale_With_Python&theme=tokyonight"/>
 </a>
 
 </p>
