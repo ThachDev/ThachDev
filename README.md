@@ -1,46 +1,66 @@
-[![MasterHead](https://www.geekbase.in/assets/images/flutter.gif)](https://rishavchanda.io)
-<h1 align="center">Hi!, I'm ThienThach</h1>
-<h3 align="center">I am always eager to learn and apply new technologies to optimize performance and enhance user experience.</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhdangthienthach&label=Profile%20views&color=0e75b6&style=flat" alt="huynhdangthienthach" /> </p>
+[![MasterHead](https://www.geekbase.in/assets/images/flutter.gif)](https://flutter.dev)
 
-- 🔭 I’m currently working on [Final Year Project](Ecommerce App Flutter)
+<h1 align="center">Hi 👋, I'm Thien Thach</h1>
+<h3 align="center">Fresher Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter & Dart - The Complete Guide (Udemy), State Management in Flutter**
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**
-
-- 🤝 I’m looking for help with **Flutter Performance Optimization**
-
-- 👨‍💻 All of my projects are available at [In my repositories](In my repositories)
-
-- 💬 Ask me about **Flutter: Widget lifecycle, custom widgets, and animations.**
-
-- 📫 How to reach me **thienthach147@gmail.com**
-
-- ⚡ Fun fact **I can spend hours tweaking the smallest details in UI design because I’m a perfectionist when it comes to Flutter layouts!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="display: flex;">
-    <a href="https://www.linkedin.com/in/thachdev/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien thach" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/thachdev3D" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huỳnh đặng thiên thạch" height="30" width="40" />
-    </a>
-  </span>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=huynhdangthienthach&label=Profile%20views&color=0e75b6&style=flat" alt="huynhdangthienthach" /> 
 </p>
 
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<span>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/2526ac75e7ebf0be7d04d60d88a8934c26a4bb8a/public/assets/snake.svg" alt="Snake animation" style="width: auto; height: auto;" />
-  </span>
+- 💼 **Fresher Flutter Developer** currently working at an **education company**
+- 📱 Experienced in building **mobile applications using Flutter & Dart**
+- 🧩 Familiar with **Clean Architecture and OOP principles**
+- ⚙️ Experienced with **state management: GetX, Provider, and BLoC**
+- 🚀 Able to **build and deploy apps to Google Play and App Store**
+- 🗄️ Basic backend and database experience with **MySQL**
+- 🎯 Interested in improving **app performance and UI/UX**
+
+---
+
+### 📫 Contact
+
+- Email: **thachhuynh.dev@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/thachdev/
+
+---
+
+### 🤝 Connect with me
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhdangthienthach" alt="huynhdangthienthach" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=huynhdangthienthach&show_icons=true&locale=en" alt="huynhdangthienthach" style="width: 47%;" />
+<a href="https://www.linkedin.com/in/thachdev/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/thachdev3D" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhdangthienthach&show_icons=true&locale=en&layout=compact" alt="huynhdangthienthach" style="width: 50%;" /> </p> 
 
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhdangthienthach" style="width:49%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=huynhdangthienthach&show_icons=true" style="width:47%;" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhdangthienthach&layout=compact" style="width:50%;" />
+</p>
